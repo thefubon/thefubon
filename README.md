@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![fubon](https://user-images.githubusercontent.com/43171309/133089301-b5a5e389-f581-4bc6-bf9f-7fe1c246172f.png)
+![fubon](https://user-images.githubusercontent.com/43171309/133089586-e1fa6c3d-6fa1-43fb-aef2-431d643f5856.png)
 
 <!--
 **thefubon/thefubon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
